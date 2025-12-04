@@ -1,6 +1,6 @@
-<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
-
 ### Hi there 👋
+
+<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
 
 ### 🔥 My Contribution Heatmap
 <div align="left">
